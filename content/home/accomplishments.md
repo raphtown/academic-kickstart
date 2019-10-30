@@ -19,33 +19,58 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
+  organization = "Department of Energy"
+  organization_url = "energy.gov"
+  title = "Science Graduate Student Research Fellowship"
+  url = "https://internships.fnal.gov/science-graduate-research-program-scgsr/"
+  date_start = "2019-11-01"
+  date_end = "2020-11-01"
+  description = "To pursue large-scale machine learning on biomolecules."
+ 
+[[item]]
+  organization = "National Science Foundation"
+  organization_url = "nsf.gov"
+  title = "Graduate Research Fellowship"
+  url = "https://www.nsfgrfp.org"
+  date_start = "2015-09-01"
+  date_end = "2018-09-01"
+  description = "Supports outstanding graduate students in science."
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  organization = "Stanford University"
+  organization_url = "stanford.edu"
+  title = "School of Engineering Fellowship"
+  date_start = "2014-09-01"
+  date_end = "2015-09-01"
+  description = "Offered to top entering PhD students."
 
+[[item]]
+  organization = "University of California, Berkeley"
+  organization_url = "berkeley.edu"
+  title = "Honors Degree Program"
+  url = "https://eecs.berkeley.edu/resources/undergrads/honors"
+  date_start = "2013-03-01"
+  date_end = "2014-06-01"
+  description = "Concentration in Statistical Learning."
+
+[[item]]
+  organization = "University of California, Berkeley"
+  organization_url = "berkeley.edu"
+  title = "ACM international Collegiate Programming Contest"
+  date_start = "2013-10-01"
+  description = "Placed on ACM ICPC team."
+
+[[item]]
+  organization = "University of California, Berkeley"
+  organization_url = "berkeley.edu"
+  title = "Eta Kappa Nu"
+  date_start = "2011-12-01"
+  description = "Elected to Undegraduate Honors Society."
+
+[[item]]
+  organization = "University of California, Berkeley"
+  organization_url = "berkeley.edu"
+  title = "Matrix Multiplication Optimization Competition"
+  date_start = "2012-12-01"
+  description = "2nd place in competition against 300 EECS undergraduates."
 +++
