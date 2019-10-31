@@ -43,7 +43,7 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "2018-09-21"
   date_end = "2018-12-15"
-  description = """Led teaching staff of 30 in instructing over 700 students in
+  description = """Led teaching staff of 30 in instructing over 750 students in
   Stanford's machine learning course.  Designed and lectured new course
   material."""
 
