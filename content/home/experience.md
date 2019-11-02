@@ -63,7 +63,7 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "2012-05-01"
   date_end = "2014-06-20"
-  description = """Computer vision for large-scale golocation."""
+  description = """Computer vision for large-scale geolocation."""
 
 [[experience]]
   title = "Root Staff Member and Director"
