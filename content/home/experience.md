@@ -82,7 +82,7 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "2012-06-01"
   date_end = "2012-08-01"
-  description = """Taught Machine Structure course to section and lab of 30
+  description = """Taught Machine Structures course to section and lab of 30
   undergraduates.  Guest lectured on MapReduce to class of 100."""
 
 +++
