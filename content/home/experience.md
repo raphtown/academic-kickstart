@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "deepmind.com"
   location = "London"
   date_start = "2019-06-24"
-  date_end = ""
+  date_end = "2019-11-15"
   description = """AlphaFold team."""
 
 [[experience]]
