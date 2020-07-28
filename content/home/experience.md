@@ -17,14 +17,6 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "Research Intern"
-  company = "DeepMind"
-  company_url = "deepmind.com"
-  location = "London"
-  date_start = "2019-06-24"
-  date_end = "2019-11-15"
-  description = """AlphaFold team."""
 
 [[experience]]
   title = "PhD Fellow"
@@ -33,8 +25,18 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "2014-09-21"
   date_end = ""
-  description = """Lead research group at the
+  description = """Thesis: Geometric Learning of Biomolecular Structure. Lead research group at the
   intersection of machine learning and structural biology."""
+
+[[experience]]
+  title = "Research Scientist Intern"
+  company = "DeepMind"
+  company_url = "deepmind.com"
+  location = "London"
+  date_start = "2019-06-24"
+  date_end = "2019-11-15"
+  description = """Pursued new research in artificial intelligence and
+  structural biology on the Science: AlphaFold team."""
 
 [[experience]]
   title = "Head TA - CS229"
