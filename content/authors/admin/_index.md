@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Fellow in Artificial Intelligence
+role: PhD Fellow in Computer Science
 
 # Organizations/Affiliations
 organizations:
@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: PhD in Computer Science 
     institution: Stanford University
     year: 2014-present
   - course: BS in Electrical Engineering and Computer Science
